@@ -1,3 +1,30 @@
+📝 To-Do List Application
+
+A simple and efficient To-Do List application designed to help users organize and manage their daily tasks effectively. The application allows users to add, edit, mark as completed, and delete tasks, providing a smooth and user-friendly task management experience.
+
+Tasks are dynamically updated, ensuring real-time interaction without page reloads. This project showcases practical use of CRUD operations, DOM manipulation, and event-driven programming, making it ideal for improving productivity and learning core front-end concepts.
+
+✨ Features
+
+Add and delete tasks
+
+Mark tasks as completed
+
+Clean and intuitive user interface
+
+Real-time updates
+
+🛠️ Tech Stack
+
+HTML
+
+CSS
+
+JavaScript
+
+React.js
+
+This project is a great example of building a functional web application using vanilla JavaScript while focusing on usability and clean design.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
